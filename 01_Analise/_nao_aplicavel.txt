@@ -1,0 +1,1 @@
+A análise geral dos requisitos da aplicação não se enquadra no contexto deste projeto, e a análise realizada não produziu nenhum documento específico que possa ser guardado e aqui apresentado.
